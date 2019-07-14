@@ -1,6 +1,7 @@
 {
-  "name": "typeahead-lib",
+  "name": "typeahead-react-skeleton",
   "version": "0.0.1",
+  "private": false,
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
