@@ -13,9 +13,9 @@
     "app/*"
   ],
   "dependencies": {
-    "react": "16.8.3",
+    "react": "16.8.6",
     "react-dom": "^16.8.6",
-    "typeahead-lib": "0.0.1"
+    "typeahead-react-skeleton": "0.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",

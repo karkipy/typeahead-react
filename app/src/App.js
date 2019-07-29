@@ -1,5 +1,5 @@
 import React from 'react';
-import TypeAhead from 'typeahead-lib';
+import TypeAhead from 'typeahead-react-skeleton';
 import './App.css';
 
 
